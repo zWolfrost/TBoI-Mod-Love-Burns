@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+   <passive id="1" name="Love Burns" gfx="love_burns_item.png" description="Love ignites your heart" quality="3" cache="firedelay"/>
+</items>
